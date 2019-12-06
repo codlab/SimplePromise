@@ -18,7 +18,7 @@ dependencies {
 
 ## Usage
 
-The minimalistic Promise can be write such as :
+The minimalistic Promise can be written such as :
 
 ```java
     new Promise<>(new PromiseSolver<String>() {
